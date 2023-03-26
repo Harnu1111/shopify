@@ -1000,4 +1000,4 @@ const ComputerReducer = (state = initState, action) => {
       return state;
   }
 };
-export default ComputerReducer;
+export default ComputerReducer;

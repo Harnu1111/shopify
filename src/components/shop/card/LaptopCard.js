@@ -472,4 +472,4 @@ const PhoneCard = () => {
   );
 };
 
-export default PhoneCard;
+export default PhoneCard;
