@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d93264dc.css",
+    "main.js": "/static/js/main.c90e865d.js",
+    "static/media/hm.png": "/static/media/hm.f10d0404d64ab1e2d84c.png",
+    "static/media/cell-big2.jpg": "/static/media/cell-big2.e2b7a1206cbfbc6b2631.jpg",
+    "static/media/gamme.png": "/static/media/gamme.0a2db72b15f99e54b06e.png",
+    "static/media/lapp-big-3.jpg": "/static/media/lapp-big-3.53a71a5e5eb061b1c75b.jpg",
+    "static/media/speaker.webp": "/static/media/speaker.0ee32d0e41bac3b20c9a.webp",
+    "static/media/exchange.png": "/static/media/exchange.b47ab6ed298274597ce0.png",
+    "static/media/laptops.jpg": "/static/media/laptops.44c4e4e0276dcc0dfdb0.jpg",
+    "static/media/credit-card(1).png": "/static/media/credit-card(1).dbf2c2e1fff81b1eeb2c.png",
+    "static/media/24-hours-support.png": "/static/media/24-hours-support.72ec49d52493b47d7314.png",
+    "static/media/speakers.webp": "/static/media/speakers.17bdf1a85feafc74fedf.webp",
+    "static/media/phones.jpg": "/static/media/phones.e7db394bf5769bd8bc55.jpg",
+    "static/media/games.png": "/static/media/games.b15b422261cb956717d5.png",
+    "static/media/tvv.webp": "/static/media/tvv.efc7f123abe5d614c431.webp",
+    "static/media/customer-support(1).png": "/static/media/customer-support(1).f7efccdf400be0905c3f.png",
+    "static/media/tvs.webp": "/static/media/tvs.ff8b92c1e8a2e11b0806.webp",
+    "static/media/webp": "/static/media/5e90a856c7c8f9000434dd97.215d76e53d55b40ca798.webp",
+    "index.html": "/index.html",
+    "main.d93264dc.css.map": "/static/css/main.d93264dc.css.map",
+    "main.c90e865d.js.map": "/static/js/main.c90e865d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d93264dc.css",
+    "static/js/main.c90e865d.js"
+  ]
+}

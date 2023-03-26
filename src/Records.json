@@ -1,0 +1,132 @@
+[
+		{
+			"id": "8320",
+			
+				"name": "PS 4",
+				"itemImg": 	"images/pngfind.com-ps4-cover-png-4164715.webp",
+					
+				"description1": "PS 4 Classic",
+				"description2": "",
+				"newItemPrice": "$850",
+				"oldItemPrice": "$544",
+				"itemTotal": "$850",
+				"brand": "Ps",
+				"category": "Gaming",
+				"color": "🇺🇦",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+			},
+		
+		{
+			"id": "48719",
+				"name": "iPhone 13",
+				"itemImg":"images/6487295_sd.webp",
+					
+				"description1": "iPhone 13 - Green",
+				"description2": "",
+				"newItemPrice": "$950",
+				"oldItemPrice": "$544",
+				"itemTotal": "630",
+				"brand": "Apple",
+				"memory": "256",
+				"category": "Cellphones",
+				"color": "🇺🇦",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+		
+		},
+		{
+			"id": "668282",
+			
+				"name": "Apple MacBook Pro 2022",
+				"itemImg":	"images/6450858_sd.webp",
+					
+				"description1": "Apple MacBook Pro 2022 - Grey",
+				"description2": "",
+				"newItemPrice": "$1200",
+				"oldItemPrice": "$544",
+				"itemTotal": "630",
+				"ram": 4,
+				"rom": 256,
+				"screen": 16,
+				"brand": "Mac",
+				"category": "Computers",
+				"color": "🇺🇦",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+			
+		},
+		{
+			"id": "989183",
+		
+				"name": "JBL Flip 5",
+				"itemImg": "images/6356535_sd.png",
+					
+				"description1": "JBL Flip 5 - Black",
+				"description2": "",
+				"newItemPrice": "$2100",
+				"oldItemPrice": "$544",
+				"itemTotal": "630",
+				"brand": "jbl",
+				"category": "Speakers",
+				"color": "Red",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+			},
+	
+		{
+			"id": "4929194",
+			
+				"name": "Hisense",
+				"itemImg": "images/try8.webp",
+				"description1": "Hisense TV",
+				"description2": "",
+				"newItemPrice": "$928",
+				"oldItemPrice": "$544",
+				"itemTotal": "630",
+				"brand": "hisense",
+				"size": 32,
+				"category": "TV",
+				"color": "🇺🇦",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+			},
+		{
+			"id": "473810",
+			
+				"name": "Samsung S22 Ultra",
+				"itemImg": "images/6472835_sd.png",
+					
+				
+				"description1": "Samsung S22 Ultra - Wine",
+				"description2": "",
+				"newItemPrice": "$520",
+				"oldItemPrice": "$544",
+				"itemTotal": "630",
+				"brand": "Samsung",
+				"memory": "128",
+				"category": "Cellphones",
+				"color": "🇺🇦",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+			}
+		
+	]

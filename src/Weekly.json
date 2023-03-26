@@ -1,0 +1,121 @@
+ [
+		{
+			"id": "84272",
+			"itemInfo": {
+				"name": "Xbox",
+				"itemImg": ["images/61RA2sUPu+L._SL1000_.webp"],
+				"description1": "XBOX",
+				"description2": "",
+				"newItemPrice": "1112",
+				"oldItemPrice": "$544",
+				"itemTotal": "630",
+				"brand": "Xbox",
+				"category": "Gaming",
+				"color": "🇺🇦",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+			}
+		},
+		{
+			"id": "89183",
+			"itemInfo": {
+				"name": "Samsung S15",
+				"itemImg": [
+					"images/61b7ywCsH2L._AC_SX679_.webp",
+					"images/61G1cC5bTYL._AC_SX679_.jpg"
+				],
+				"description1": "Samsung S15 - Blue",
+				"description2": "",
+				"newItemPrice": "520",
+				"oldItemPrice": "$544",
+				"itemTotal": "630",
+				"brand": "Samsung",
+				"memory": "128",
+				"category": "Cellphones",
+				"color": "🇺🇦",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+			}
+		},
+		{
+			"id": "982929",
+			"itemInfo": {
+				"name": "JBL Flip 5",
+				"itemImg": [
+					"images/6488913_rd.png",
+					"images/6488913_sd.jpeg",
+					"images/6488913cv1d.jpeg",
+					"images/6488913cv11d.jpeg",
+					"images/6488913ld.jpeg"
+				],
+				"description1": "JBL Charge 5 - Blue",
+				"description2": "",
+				"newItemPrice": "480",
+				"oldItemPrice": "$544",
+				"itemTotal": "630",
+				"brand": "jbl",
+				"category": "Speakers",
+				"color": "🇺🇦",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+			}
+		},
+		{
+			"id": "8882738",
+			"itemInfo": {
+				"name": "Apple MacBook Air 2020",
+				"itemImg": [
+					"images/6455369_sd.webp",
+					"images/6455369_rd.jpeg",
+					"images/6450858cv7d.jpeg",
+					"images/6450858cv4d.jpeg"
+				],
+				"description1": "Apple MacBook Air 2020",
+				"description2": "",
+				"newItemPrice": "1100",
+				"oldItemPrice": "$544",
+				"itemTotal": "630",
+				"ram": 4,
+				"rom": 256,
+				"screen": 16,
+				"brand": "Mac",
+				"category": "Computers",
+				"color": "🇺🇦",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+			}
+		},
+		{
+			"id": "4929324",
+			"itemInfo": {
+				"name": "Hisense",
+				"itemImg": ["images/try3.webp"],
+				"description1": "Hisense TV",
+				"description2": "",
+				"newItemPrice": "928",
+				"oldItemPrice": "$544",
+				"itemTotal": "630",
+				"brand": "hisense",
+				"size": 32,
+				"category": "TV",
+				"color": "🇺🇦",
+				"OS": "🫶🏼",
+				"CPU": "🁼",
+				"smop": "😘",
+				"ct": "🌕",
+				"aom": "🌑"
+			}
+		}
+	]

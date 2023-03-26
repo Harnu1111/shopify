@@ -1,0 +1,1062 @@
+[
+				{
+					"id": "57108",
+					
+						"name": "iPhone 13",
+						"itemImg": [
+							"images/6009728_sd.png",
+							"images/6009728cv11d.jpeg",
+							"images/6009728cv12d.jpeg"
+						],
+						"description1": "iPhone 13 - White",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "72910",
+					
+						"name": "iPhone 13 Pro",
+						"itemImg": [
+							"images/6009823_sd.webp",
+							"images/6009823cv11d.jpeg",
+							"images/6009823cv12d.jpeg"
+						],
+						"description1": "iPhone 13 Pro - Space Grey",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "Space Grey",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+				
+				},
+				{
+					"id": "48291",
+					
+						"name": "iPhone 13 Pro",
+						"itemImg": [
+							"images/6341308cv12d.png",
+							"images/6341308_sd.jpeg",
+							"images/6341308cv15d.jpeg"
+						],
+						"description1": "iPhone 13 Pro - Gold",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "470183",
+				
+						"name": "iPhone 11 Pro Max",
+						"itemImg": [
+							"images/6341561cv12d.png",
+							"images/6341561cv11d.jpeg",
+							"images/6341561_sd.jpeg"
+						],
+						"description1": "iPhone 11 Pro Max - Space Grey",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+
+				{
+					"id": "79174",
+				
+						"name": "iPhone 11",
+						"itemImg": [
+							"images/6510048cv2d.png",
+							"images/6510048cv1d.jpeg",
+							"images/6510048_sd.jpeg",
+							"images/6510048_rd.jpeg"
+						],
+						"description1": "iPhone 11 - Black",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+				
+				},
+
+				{
+					"id": "928812",
+			
+						"name": "iPhone Xs Max",
+						"itemImg": [
+							"images/6398612_bd.webp",
+							"images/6398612_sd.jpeg",
+							"images/6398612cv2d.jpeg",
+							"images/6398612cv11d.jpeg"
+						],
+						"description1": "iPhone Xs Max - White",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "782919",
+					
+						"name": "iPhone Xs Max",
+						"itemImg": [
+							"images/6398614_sd.png",
+							"images/6398614cv2d.jpeg",
+							"images/6398614_bd.jpeg"
+						],
+						"description1": "iPhone Xs Max - Black",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "849193",
+					
+						"name": "iPhone Xr",
+						"itemImg": [
+							"images/6398621_bd.webp",
+							"images/6398621_sd.jpeg",
+							"images/6398621cv2d.jpeg"
+						],
+						"description1": "iPhone Xr - White",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "68291",
+				
+						"name": "iPhone 12 Pro Max",
+						"itemImg": [
+							"images/6443098_sd.png",
+							"images/6443098cv11d.jpeg",
+							"images/6443098cv12d.jpeg",
+							"images/6443098cv13d.jpeg"
+						],
+						"description1": "iPhone 12 Pro Max - Space Grey",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "94901",
+					
+						"name": "iPhone 12 Pro Max",
+						"itemImg": [
+							"images/6443100_sd.png",
+							"images/6443100cv11d.jpeg",
+							"images/6443100cv12d.jpeg",
+							"images/6443100cv13d.jpeg"
+						],
+						"description1": "iPhone 12 Pro Max - Gold",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "948992",
+			
+						"name": "iPhone 12 Pro Max",
+						"itemImg": [
+							"images/6443101_sd.webp",
+							"images/6443101cv11d.jpeg",
+							"images/6443101cv12d.jpeg",
+							"images/6443101cv13d.jpeg"
+						],
+						"description1": "iPhone 12 Pro Max - Blue",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "974829",
+					
+						"name": "iPhone 12 Pro Max",
+						"itemImg": [
+							"images/6443289_sd.webp",
+							"images/6443289cv11d.jpeg",
+							"images/6443289cv12d.jpeg",
+							"images/6443289cv13d.jpeg"
+						],
+						"description1": "iPhone 12 Pro Max - Deep Blue",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "47291",
+					
+						"name": "iPhone 12 Pro Max",
+						"itemImg": [
+							"images/6487231_sd.webp",
+							"images/6487231ld.jpeg",
+							"images/6487231_bd.jpeg"
+						],
+						"description1": "iPhone 12 Pro Max - Red",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "94918",
+					
+						"name": "iPhone 14",
+						"itemImg": [
+							"images/6487243_sd.webp",
+							"images/6487243cv2d.jpeg",
+							"images/6487243ld.jpeg"
+						],
+						"description1": "iPhone 14 Plus - Grey",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "48719",
+				
+						"name": "iPhone 13",
+						"itemImg": [
+							"images/6487295_sd.webp",
+							"images/6487295cv1d.jpeg",
+							"images/6487295cv2d.jpeg",
+							"images/6487295cv11d.jpeg"
+						],
+						"description1": "iPhone 13 - Green",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "256",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "47092",
+					
+						"name": "iPhone 12",
+						"itemImg": [
+							"images/iphone-14-blue.webp",
+							"images/iphone-14-blue.png"
+						],
+						"description1": "iPhone 12 - Blue",
+						"description2": "",
+						"newItemPrice": "1200",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "16",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "47914",
+					
+						"name": "iPhone 14",
+						"itemImg": [
+							"images/iphone-14-blackii.png",
+							"images/iphone-14-black.jpg"
+						],
+						"description1": "iPhone 14 - Black",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "89291",
+				
+						"name": "iPhone XS",
+						"itemImg": [
+							"images/6522700ld.webp",
+							"images/6522700cv2d.jpeg",
+							"images/6522700cv1d.jpeg"
+						],
+						"description1": "iPhone Xs - Jet Black",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "98821",
+					
+						"name": "Samsung S22",
+						"itemImg": [
+							"images/6494435ld.png",
+							"images/6494435cv12d.jpeg",
+							"images/6494435cv11d.jpeg",
+							"images/6494435_sd.jpeg",
+							"images/6494435_rd.jpeg"
+						],
+						"description1": "Samsung S22 - Pink",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "42293",
+					
+						"name": "Samsung S22",
+						"itemImg": [
+							"images/6494419ld.png",
+							"images/6494419cv12d.jpeg",
+							"images/6494419cv11d.jpeg",
+							"images/6494419_sd.jpeg",
+							"images/6494419_rd.jpeg"
+						],
+						"description1": "Samsung S22 - Black",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "81982",
+				
+						"name": "Xiaomi Redmi",
+						"itemImg": [
+							"images/81TOxp5xrJL._AC_SX679_.png",
+							"images/81yt7HHmCFL._AC_SY741_.jpg",
+							"images/81q+h01rwzL._AC_SY741_.jpg",
+							"images/81On+oiF1FL._AC_SY679_.jpg"
+						],
+						"description1": "Xiaomi Redmi",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Xiaomi",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "Black",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "81921",
+					
+						"name": "LG",
+						"itemImg": [
+							"images/61Wmy7c+spL._AC_SX679_.webp",
+							"images/61VURWvX+7L._AC_SX679_.jpg",
+							"images/61XmyRtUsZL._AC_SY741_.jpg"
+						],
+						"description1": "LG - Gold",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "LG",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "21401",
+					
+						"name": "Xiaomi Redmi",
+						"itemImg": ["images/61bKP6RU4ZL._AC_SX679_.webp"],
+						"description1": "Xiaomi Redmi - Black",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Xiaomi",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "48913",
+				
+						"name": "Xiaomi Redmi",
+						"itemImg": ["images/51oEezK-4lL._AC_SX679_.webp"],
+						"description1": "Xiaomi Redmi - Black",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Xiaomi",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "84910",
+					
+						"name": "LG",
+						"itemImg": ["images/61GzwFzwhIL._AC_SX679_.webp"],
+						"description1": "LG - Space Grey",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "LG",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "19384",
+					
+						"name": "Samsung S22 Ultra",
+						"itemImg": [
+							"images/51H91olBMML._AC_SY679_.png",
+							"images/51EvYzOiyxL._AC_SX679_.jpg",
+							"images/51EkCa-XUTL._AC_SX679_.jpg"
+						],
+						"description1": "Samsung S22 Ultra - Black",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "57192",
+					
+						"name": "iPhone Xr",
+						"itemImg": [
+							"images/6398617_bd.webp",
+							"images/6398617_sd.jpeg",
+							"images/6398617cv2d.jpeg"
+						],
+						"description1": "iPhone Xr - Red",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "Red",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "473810",
+				
+						"name": "Samsung S22 Ultra",
+						"itemImg": [
+							"images/6472835_sd.png",
+							"images/6472835cv11d.jpeg",
+							"images/6472835_rd.jpeg",
+							"images/6472835ld.jpeg"
+						],
+						"description1": "Samsung S22 Ultra - Wine",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+
+				{
+					"id": "847193",
+					
+						"name": "Samsung S22",
+						"itemImg": ["images/51K437SfYOL._AC_SX679_.webp"],
+						"description1": "Samsung S22 - Blue",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+
+				{
+					"id": "919932",
+					
+						"name": "Samsung A11",
+						"itemImg": [
+							"images/61FHIXy334L._AC_SX679_.png",
+							"images/61E5sTroE+L._AC_SX679_.jpg"
+						],
+						"description1": "Samsung A11 - Black",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+
+				{
+					"id": "89183",
+					
+						"name": "Samsung S15",
+						"itemImg": [
+							"images/61b7ywCsH2L._AC_SX679_.webp",
+							"images/61G1cC5bTYL._AC_SX679_.jpg"
+						],
+						"description1": "Samsung S15 - Blue",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+
+				{
+					"id": "45819",
+					
+						"name": "Samsung S15",
+						"itemImg": ["images/51LVTBV6tjL._AC_SX679_.webp"],
+						"description1": "Samsung S15 - Black",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+
+				{
+					"id": "471918",
+				
+						"name": "Samsung S22",
+						"itemImg": [
+							"images/6494417_rd.png",
+							"images/6494417_sd.jpeg",
+							"images/6494417cv11d.jpeg",
+							"images/6494417ld.jpeg"
+						],
+						"description1": "Samsung S22 - Green",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+
+				{
+					"id": "57191",
+				
+						"name": "Samsung A10",
+						"itemImg": ["images/51LVTBV6tjL._AC_SX679_.webp"],
+						"description1": "Samsung A10 - Black",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+
+				{
+					"id": "47810",
+				
+						"name": "iPhone X",
+						"itemImg": [
+							"images/6394669_sd.webp",
+							"images/6394669_bd.jpeg",
+							"images/6394669cv21d.jpeg",
+							"images/6394669cv2d.jpeg"
+						],
+						"description1": "iPhone X - Black",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "128",
+						"category": "Cellphones",
+						"color": "Black",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+
+				{
+					"id": "99918",
+	
+						"name": "iPhone 13 Mini",
+						"itemImg": [
+							"images/6504816_sd.webp",
+							"images/6504816ld.jpeg",
+							"images/6504816_bd.jpeg"
+						],
+						"description1": "iPhone 13 Mini - White Gold",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "256",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "88291",
+					
+						"name": "iPhone 13 Mini",
+						"itemImg": [
+							"images/6505478_sd.webp",
+							"images/6505478ld.jpeg",
+							"images/6505478_bd.jpeg"
+						],
+						"description1": "iPhone 13 Mini - White Blue",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "256",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "22291",
+				
+						"name": "iPhone 13 Mini",
+						"itemImg": [
+							"images/6505505_sd.webp",
+							"images/6505505ld.jpeg",
+							"images/6505505_bd.jpeg"
+						],
+						"description1": "iPhone 13 Mini - White Blue",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "256",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "491932",
+					
+						"name": "iPhone 12 Pro Max",
+						"itemImg": [
+							"images/6516546_sd.png",
+							"images/6516546_rd.jpeg",
+							"images/6516546cv1d.jpeg",
+							"images/6516546ld.jpeg"
+						],
+						"description1": "iPhone 12 Pro Max - Space Grey",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Apple",
+						"memory": "64",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "488103",
+
+						"name": "Samsung S22 Ultra",
+						"itemImg": [
+							"images/71GoXXLv9AL._AC_SX679_.webp",
+							"images/71GoXXLv9AL._AC_SY300_SX300_.jpg"
+						],
+						"description1": "Samsung S22 Ultra - Pink",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "64",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "8772921",
+					
+						"name": "Samsung S22",
+						"itemImg": ["images/71++2+4pHrL._AC_SY450_.png"],
+						"description1": "Samsung S22 - Space Grey",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "32",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "94829",
+					
+						"name": "Samsung S22",
+						"itemImg": ["images/71Wkk4n9olL._AC_SX450_.png"],
+						"description1": "Samsung S22 - Space Grey",
+						"description2": "",
+						"newItemPrice": "950",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "Samsung",
+						"memory": "32",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				},
+				{
+					"id": "948291",
+				
+						"name": "LG",
+						"itemImg": ["images/71fg+BrjQlL._AC_SX679_.webp"],
+						"description1": "LG - Gold",
+						"description2": "",
+						"newItemPrice": "520",
+						"oldItemPrice": "$544",
+						"itemTotal": "630",
+						"brand": "LG",
+						"memory": "32",
+						"category": "Cellphones",
+						"color": "🇺🇦",
+						"OS": "🫶🏼",
+						"CPU": "🁼",
+						"smop": "😘",
+						"ct": "🌕",
+						"aom": "🌑"
+					
+				}
+			]
